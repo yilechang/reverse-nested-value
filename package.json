@@ -1,0 +1,23 @@
+{
+  "name": "my-go",
+  "version": "1.0.0",
+  "description": "",
+  "main": "my-go.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yilechang/reverse-nested-value.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yilechang/reverse-nested-value/issues"
+  },
+  "homepage": "https://github.com/yilechang/reverse-nested-value#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}

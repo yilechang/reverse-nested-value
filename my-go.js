@@ -50,4 +50,6 @@ let reverseValue = (inputValue) => {
   return output[0];
 };
 
-reverseValue(inputValue);
+module.exports = {
+  reverseValue: reverseValue
+}
